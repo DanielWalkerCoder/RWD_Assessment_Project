@@ -1,0 +1,38 @@
+* {font-size: 10px;}
+
+h1 {font-size: 4rem;}
+
+h2 {font-size: 2.5rem;}
+
+p {font-size: 1.5rem;}
+
+.pitch {text-indent: 20px;}
+
+li {font-size: 1.5rem;}
+
+#header {text-align: center;
+border-top: 2px solid brown;
+border-bottom: 2px solid brown;}
+
+#navbar {display: flex;
+flex-direction: column;}
+
+#threecolumns {display: flex;
+flex-direction: row;}
+
+#cone {width: 50%;
+padding-right: 30px;}
+
+#ctwo {width: 25%;
+padding-right: 30px}
+
+#cthree {width: 25%;}
+
+.button {margin-top: 10px;
+font-size: 2rem;}
+
+#Home {margin-top: 21px;}
+
+.list {font-size: 1.5rem;}
+
+#motto {text-align: center;}
