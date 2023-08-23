@@ -56,7 +56,8 @@ li {font-size: 1.7rem;
 
 .list {font-size: 1.7rem;}
 
-#motto {text-align: center;}
+#motto {text-align: center;
+    font-style: italic;}
 
 footer {border-top: 6px solid #ac6a68;
     margin-top: 20px;
